@@ -3,7 +3,7 @@
 ## Setup environment
 Install Docker
 clone project
-`git clone github.com/ccl17/ryde`
+`git clone https://github.com/rydeapplicant/ryde`
 Run mongo container, comment out volumes section in compose file if you do not want to persist DB data.
 `docker compose up -d mongo`
 
